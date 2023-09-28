@@ -1,0 +1,11 @@
+.courses-page{
+    &__add{
+        position: absolute;
+        right: 0;
+        top: 0;
+        
+        >.ui.buttom{
+            margin: 0;
+        }
+    }
+}
